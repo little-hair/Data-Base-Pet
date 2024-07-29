@@ -10,7 +10,7 @@
             "category": "Acessórios"
         },
         "product0002": {
-            "name": "Cama Pet Premium",
+            "name": "Cama para Pets linha Premium",
             "code": "0002",
             "price": "545,00",
             "description": "Cama Pet em corda náutica.<br>Com tramado e almofada.<br>Estrutura: Alumínio.",
@@ -19,7 +19,7 @@
             "category": "Acessórios"
         },
         "product0003": {
-            "name": "Caixa de Transporte",
+            "name": "Caixa de Transporte para Pets",
             "code": "0003",
             "price": "481,86",
             "description": "Transporte seu pet com segurança, montagem simples;<br>Possui padrão IATA;<br>Material premium e durável.",
@@ -37,7 +37,7 @@
             "category": "Acessórios"
         },
         "product0005": {
-            "name": "Brinquedo Durabone Flat Odontopet Até 7kg",
+            "name": "Brinquedo Durabone Flat",
             "code": "0005",
             "price": "25,00",
             "description": "Totalmente atóxico;<br>Desenvolvido para mordidas extra fortes;<br>Satisfaz o desejo natural de mastigação;<br>Produzido nylon resistente.",
@@ -46,7 +46,7 @@
             "category": "Acessórios"
         },
         "product0006": {
-            "name": "Ração Pet life para Cães Adultos Sabor Frango & Arroz",
+            "name": "Ração Petlife sabor Frango & Arroz",
             "code": "0006",
             "price": "62,90",
             "description": "A Ração Pet Life para Cães Adultos é indicada para cães de raças médias e grandes, oferecendo uma dieta adaptada às suas necessidades específicas.",
@@ -55,7 +55,7 @@
             "category": "Alimento"
         },
         "product0007": {
-            "name": "Ração Zuppy para Cães Adultos Sabor Frango & Arroz 20kg",
+            "name": "Ração Zuppy Sabor Frango & Arroz 20kg",
             "code": "0007",
             "price": "214,90",
             "description": "A Ração Zuppy é indicada para cães adultos de raças médias e grandes, oferecendo uma nutrição completa e equilibrada para atender às suas necessidades específicas de tamanho e atividade.",
@@ -64,7 +64,7 @@
             "category": "Alimento"
         },
         "product0008": {
-            "name": "Ração Whiskas Carne para Gatos Adultos",
+            "name": "Ração Whiskas Carne para Gatos",
             "code": "0008",
             "price": "180,00",
             "description": "O alimento Ração Whiskas Carne é nutricionalmente completo e balanceado, com um ótimo equilíbrio de vitaminas e minerais para ajudá-lo a fornecer os melhores cuidados para o seu gato adulto.",
@@ -73,7 +73,7 @@
             "category": "Alimento"
         },
         "product0009": {
-            "name": "Ração Seca GranPlus Gourmet Salmão & Frango para Gatos",
+            "name": "Ração GranPlus Gourmet Salmão & Frango",
             "code": "0009",
             "price": "171,86",
             "description": "A Ração Seca GranPlus Gourmet Salmão & Frango é um alimento High-Premium, conservado com antioxidantes naturais, não contêm corantes e aromas artificiais, satisfaz os paladares mais rigorosos.",
@@ -82,10 +82,10 @@
             "category": "Alimento"
         },
         "product0010": {
-            "name": "Ração Royal Canin para Cães Adultos da Raça Shih Tzu",
+            "name": "Ração Royal Canin para Shih Tzu",
             "code": "0010",
             "price": "395,86",
-            "description": "ndicada para cães da raça Shih Tzu adultos (com mais de 10 meses de idade); - Combinação de nutrientes para ótima digestão e bom equilíbrio da flora intestinal.",
+            "description": "Indicada para cães da raça Shih Tzu adultos (com mais de 10 meses de idade); - Combinação de nutrientes para ótima digestão e bom equilíbrio da flora intestinal.",
             "url": "./Images/Product/Ração-royal.png",
             "tags": "ração, cães, animais",
             "category": "Alimento"
