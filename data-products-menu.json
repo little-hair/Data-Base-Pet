@@ -1,0 +1,103 @@
+{
+    "Products": {
+        "product0001": {
+            "name": "Bife Wellington",
+            "code": "0001",
+            "price": "89.90",
+            "description": "File mignon envolto em massa folhada e cogumelos. Acompanha purê de batata. (Glúten)",
+            "url": "./Images/Product/BifeWellington.jpg",
+            "tags": "carne, prato principal, gourmet",
+            "category": "Pratos Principais",
+            "porcao": "Individual",
+            "alergenos": "Glúten"
+        },
+        "product0002": {
+            "name": "Pizza Margherita",
+            "code": "0002",
+            "price": "45.00",
+            "description": "Massa fina com molho de tomate, mussarela e manjericão.",
+            "url": "./Images/Product/PizzaMargherita.jpg",
+            "tags": "pizza, vegetariano",
+            "category": "Massas",
+            "tamanho": "Média"
+        },
+        "product0003": {
+            "name": "Salmão Grelhado com Crosta de Gergelim",
+            "code": "0003",
+            "price": "79.90",
+            "description": "Filet de salmão grelhado com crosta de gergelim, acompanhado de risoto de limão siciliano.",
+            "url": "./Images/Product/SalmaoGrelhado.jpg",
+            "tags": "peixe, prato principal, leve",
+            "category": "Pratos Principais",
+            "porcao": "Individual",
+            "alergenos": "Glúten"
+        },
+        "product0004": {
+            "name": "Risoto de Funghi",
+            "code": "0004",
+            "price": "65.00",
+            "description": "Risoto cremoso com mix de cogumelos frescos.",
+            "url": "./Images/Product/RisotoFunghi.jpg",
+            "tags": "vegetariano, prato principal",
+            "category": "Pratos Principais",
+            "porcao": "Individual",
+            "alergenos": "Glúten"
+        },
+        "product0005": {
+            "name": "Espaguete Carbonara",
+            "code": "0005",
+            "price": "59.90",
+            "description": "Espaguete com bacon, ovos e queijo pecorino.",
+            "url": "./Images/Product/EspagueteCarbonara.jpg",
+            "tags": "massa, prato principal",
+            "category": "Massas",
+            "tamanho": "Média"
+        },
+        "product0006": {
+            "name": "Ravioli de Espinafre com Molho de Nozes",
+            "code": "0006",
+            "price": "69.90",
+            "description": "Ravioli caseiro recheado com espinafre, acompanhado de molho de nozes.",
+            "url": "./Images/Product/RavioliEspinafre.jpg",
+            "tags": "massa, vegetariano",
+            "category": "Massas",
+            "tamanho": "Média"
+        },
+        "product0007": {
+            "name": "Mousse de Chocolate com Morangos",
+            "code": "0007",
+            "price": "15.90",
+            "description": "Deliciosa mousse de chocolate com calda de morango.",
+            "url": "./Images/Product/MousseChocolate.jpg",
+            "tags": "sobremesa, chocolate",
+            "category": "Sobremesas"
+        },
+        "product0008": {
+            "name": "Pudim de Leite",
+            "code": "0008",
+            "price": "12.90",
+            "description": "Clássico pudim de leite com caramelo.",
+            "url": "./Images/Product/PudimLeite.jpg",
+            "tags": "sobremesa",
+            "category": "Sobremesas"
+        },
+        "product0009": {
+            "name": "Suco de Laranja",
+            "code": "0009",
+            "price": "8.90",
+            "description": "Suco natural de laranja.",
+            "url": "./Images/Product/SucoLaranja.jpg",
+            "tags": "bebida",
+            "category": "Bebidas"
+        },
+        "product0010": {
+            "name": "Cerveja Artesanal IPA",
+            "code": "0010",
+            "price": "15.90",
+            "description": "Cerveja artesanal IPA, sabor lupulado e cítrico.",
+            "url": "./Images/Product/CervejaIPA.jpg",
+            "tags": "bebida",
+            "category": "Bebidas"
+        }
+    }
+}
